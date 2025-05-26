@@ -1,20 +1,3 @@
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
-
-#  <img src="https://github.com/takitajwar17/Simple-Todo-List-Refactored/assets/111155827/4b1c2e01-f24b-4f39-899e-c356d468e386" width="300">
-
-## Simple Todo List App Docs
-
-## Table of Contents
-
-1. [Introduction](#1-introduction)
-2. [Project Overview](#2-project-overview)
-3. [Getting Started](#3-getting-started)
-4. [Code Structure](#4-code-structure)
-5. [Dependencies](#5-dependencies)
-6. [Code Refactoring](#6-code-refactoring)
-7. [Deployment](#7-deployment)
-8. [Usage](#8-usage)
-9. [License](#9-license)
 
 ## 1. Introduction
 
@@ -40,7 +23,7 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone git@github.com:abdellatif-laghjaj/todo-list.git
+   git clone https://github.com/tejaswinikanda2003/TODOLIST.git
    ```
 
 2. **Navigate to the Project Directory:**
